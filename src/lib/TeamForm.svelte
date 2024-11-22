@@ -13,7 +13,7 @@
 
   let email = '';
 
-  const addTemaMember = async (event) => {
+  const addTeamMember = async (event) => {
     try {
       
     } catch (error) {
